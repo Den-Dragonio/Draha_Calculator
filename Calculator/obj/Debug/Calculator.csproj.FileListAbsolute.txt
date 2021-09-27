@@ -1,0 +1,7 @@
+D:\PROJECTS\Visual studio back-end\Лабораторна 3\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\PROJECTS\Visual studio back-end\Лабораторна 3\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 3\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\PROJECTS\Visual studio back-end\Лабораторна 3\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 3\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\PROJECTS\Visual studio back-end\Лабораторна 3\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\PROJECTS\Visual studio back-end\Лабораторна 3\Calculator\Calculator\obj\Debug\Calculator.pdb
